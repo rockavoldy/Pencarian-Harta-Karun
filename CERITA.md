@@ -35,7 +35,28 @@ Hugo mendapatkan sebuah pedang dengan memberikan kekuatan {menambah daya serang,
 ### Pilihan A2
 Hugo diberi kemampuan mengendalikan sihir {mengendalikan udara, api, air, tanah, makhluk hidup} secara random.
 
-
 ### Plot bersambung kembali
 "Oke hugo, kau telah memilih [Pilihan A] sekarang kamu siap untuk menjelajahi dunia baru mu, disana kamu bebas melakukan apa saja seperti ketika kamu hidup di dunia sebelumnya, tetapi lebih baik kamu pakai kesempatan ini untuk menutup dosamu selama di dunia sebelumnya. Sampai jumpa dan selamat jalan."
-dewa itu lalu hilang dan semua menjadi putih, lalu ia terbangun di sebuah padang rumput luas dengan banyak hewan.
+dewa itu lalu hilang dan semua menjadi putih... 
+
+Hugo terbangun di sebuah padang rumput luas yang dihuni banyak hewan. Ia mulai melangkahkan kaki untuk melihat sekeliling. Tak jauh dari tempatnya berdiri, terdapat sebuah mulut gua yang bersinar. Hugo kembali melihat sekitar untuk memastikan jika ada tempat lain yang bisa ia tempati karena cuaca sepertinya akan hujan, tetapi tidak ada tempat lain yang lebih dekat selain gua itu. Hugo lalu memutuskan untuk masuk ke dalamnya sembari menunggu hujan dan menghangatkan diri. 
+
+Hugo melihat sekitar didalam gua, terdapat sebuah tugu disebelah kiri dinding gua tak jauh dari bibir gua, terdapat tulisan "Trainer". Hugo bisa berbicara dengan tugu tersebut.
+Trainer: "Hai anak muda, kau bisa menggunakanku untuk mengasah kemampuanmu, tunjukan padaku kemampuan terbaikmu !"
+Hugo: Pilihan 
+
+    1. "Baiklah, aku akan berlatih di tugu ini !"
+	2. "Tidak, terima kasih atas tawaranmu, aku terlalu lelah"
+	
+**jika Pilihan 1, tambah attack random sebesar 1-10%**
+Trainer: "Teruslah berjalan wahai anak muda, kau akan menemukan sebuah pintu dan juga seorang petapa, jawab pertanyaan ini 'Kota apa yang hurufnya merupakan penjumlahan antara E & G?'. pikirkan jawabannya sembari menyusuri jalan ini, dan katakan jawabannya pada sang petapa."
+selesai _Trainer_ berbicara, Hugo menyusuri gua itu, ia ragu dengan perkataan sebuah tugu yang bisa berbicara.
+Setelah sekitar 10 menit ia menyusuri gua, ia melihat cahaya lampu yang terlalu redup untuk melihat sekitarnya tetapi cukup untuk memberikan cahaya pada petapa. Ia kaget dan senang, karena perkataan sebuah tugu memang benar dan ada seseorang yang bisa ia ajak bicara.
+Hugo mendekati petapa itu, terlihat sebuah pintu terbuat dari kayu, ia tak menghiraukan itu dan langsung berbicara pada petapa
+"Halo, untunglah kau ada disini. Sebelum bertemu denganmu, yang aku lihat hanya hewan, tumbuhan, dan _totem_ yang bisa berbicara. Dunia ini sungguh aneh." Hugo langsung menceritakannya tanpa ragu. Tetapi petapa itu hanya diam saja, seketika ia teringat dengan perkataan tugu itu, ia lalu bertanya lagi dan memberikan jawaban pada sang petapa.
+	1. "Lampung"
+	2. "Sumedang"
+	3. "Bandung"
+	
+**jika memilih 1 atau 3, petapa hanya diam saja, jika memilih 2, petapa memberikan sebuah kunci untuk pintu disebelahnya.**
+Setelah pintu terbuka, 
