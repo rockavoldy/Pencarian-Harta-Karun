@@ -45,18 +45,96 @@ Hugo melihat sekitar didalam gua, terdapat sebuah tugu disebelah kiri dinding gu
 Trainer: "Hai anak muda, kau bisa menggunakanku untuk mengasah kemampuanmu, tunjukan padaku kemampuan terbaikmu !"
 Hugo: Pilihan 
 
-    1. "Baiklah, aku akan berlatih di tugu ini !"
-	2. "Tidak, terima kasih atas tawaranmu, aku terlalu lelah"
-	
-**jika Pilihan 1, tambah attack random sebesar 1-10%**
-Trainer: "Teruslah berjalan wahai anak muda, kau akan menemukan sebuah pintu dan juga seorang petapa, jawab pertanyaan ini 'Kota apa yang hurufnya merupakan penjumlahan antara E & G?'. pikirkan jawabannya sembari menyusuri jalan ini, dan katakan jawabannya pada sang petapa."
-selesai _Trainer_ berbicara, Hugo menyusuri gua itu, ia ragu dengan perkataan sebuah tugu yang bisa berbicara.
-Setelah sekitar 10 menit ia menyusuri gua, ia melihat cahaya lampu yang terlalu redup untuk melihat sekitarnya tetapi cukup untuk memberikan cahaya pada petapa. Ia kaget dan senang, karena perkataan sebuah tugu memang benar dan ada seseorang yang bisa ia ajak bicara.
-Hugo mendekati petapa itu, terlihat sebuah pintu terbuat dari kayu, ia tak menghiraukan itu dan langsung berbicara pada petapa
-"Halo, untunglah kau ada disini. Sebelum bertemu denganmu, yang aku lihat hanya hewan, tumbuhan, dan _totem_ yang bisa berbicara. Dunia ini sungguh aneh." Hugo langsung menceritakannya tanpa ragu. Tetapi petapa itu hanya diam saja, seketika ia teringat dengan perkataan tugu itu, ia lalu bertanya lagi dan memberikan jawaban pada sang petapa.
-	1. "Lampung"
-	2. "Sumedang"
-	3. "Bandung"
-	
-**jika memilih 1 atau 3, petapa hanya diam saja, jika memilih 2, petapa memberikan sebuah kunci untuk pintu disebelahnya.**
-Setelah pintu terbuka, 
+### Pilihan
+1. "Baiklah, aku akan berlatih di totem ini !"
+2. "Tidak, terima kasih atas tawaranmu, aku terlalu lelah"
+
+### Pilihan 1
+*tambah attack random sebesar 1-10%
+Trainer: "Teruslah berjalan wahai anak muda, kau akan menemukan sebuah pintu dan juga seorang petapa, jawab pertanyaan ini 'Kota apa yang hurufnya merupakan penjumlahan antara E & G?'. pikirkan jawabannya sembari menyusuri jalan ini, dan katakan jawabannya pada sang petapa." selesai Trainer berbicara, Hugo menyusuri gua itu, ia ragu dengan perkataan sebuah totem yang bisa berbicara.
+
+### Pilihan 2
+*Hugo melanjutkan perjalanan
+
+Setelah sekitar 10 menit ia menyusuri gua, ia melihat cahaya lampu yang terlalu redup untuk melihat sekitarnya. Ia kaget dan senang, karena ada seseorang yang bisa ia ajak bicara, seorang petapa. Hugo mendekati petapa itu, terlihat sebuah pintu terbuat dari kayu, ia tak menghiraukan itu dan langsung berbicara pada petapa
+"Halo, untunglah kau ada disini. Sebelum bertemu denganmu, yang aku lihat hanya hewan, tumbuhan, dan totem yang bisa berbicara. Dunia ini sungguh aneh."
+
+Hugo langsung menceritakannya tanpa ragu. Tetapi petapa itu hanya bertanya 
+"Sudahkah kau menemukan jawabannya, wahai anak muda?"
+### Pilihan
+1. "Lampung" 
+2. "Sumedang" 
+3. "Bandung"
+
+### Pilihan 1 dan 3
+Petapa : "Hmm, kau yakin?"
+
+### Pilihan 2
+Petapa : "Terimalah ini sebagai penghargaan atas pengetahuanmu. Lanjutkanlah perjalananmu, dan ingatlah hanya orang yang memiliki tujuan yang dapat lolos dari segala rintangan. Hmm~" (petapa itu memberikan sebuah kunci berwarna perak dan kemudian menghilang)
+
+Hugo : "Apa maksudnya itu? Untuk apa kunci ini?" pikirnya
+Hugo ingat dengan pintu kayu yang dilewatinya tadi sebelum sampai di sini.
+Hugo : "Mungkin ini adalah kunci untuk pintu itu. Aku harus mencobanya"
+(Hugo menggunakan kunci itu, pintu terbuka, Hugo melangkah ke dalam)
+
+Krakkk~ (kuncinya menghilang, pintu tidak bisa dibuka kembali)
+
+Hugo : "Apa ini?"
+Hugo hanya melihat lorong yang gelap, dinding gua dipenuhi sarang laba-laba. Hanya ada sebuah obor di sisi kiri pintu.
+
+### Pilihan
+1. "Sepertinya terlalu beresiko, aku akan menunggu saja di sini"
+2. "Aku harus tetap maju!"
+
+### Pilihan 1
+Obor mati dalam waktu 30 menit, sesosok makhluk hitam besar merangkak menuju Hugo. Hugo tidak punya kesempatan untuk lari, Fin~
+
+### Pilihan 2
+Hugo mengambil obor dan mulai berjalan. Di ujung lorong Hugo menemui persimpangan.
+Hugo : "sepertinya ini adalah sebuah labirin, aku akan mengambil jalan ke
+
+### Pilihan 
+1. kiri
+2. kanan
+
+### Pilihan 1
+Hugo melewati lorong dinding gua yang mengandung batu mineral indah berwarna violet. Cahaya dari obor memantul di menghasilkan pemandangan yang indah. Hugo memandang kagum sepanjang dinding lorong.
+
+Hugo : "Indah sekali, ini seperti pemandangan di langit malam yang dipenuhi kembang api"
+
+Hugo tertegun tanpa menyadari ada sepasang mata hitam yang memperhatikannya dari kegelapan.
+
+Hugo : "Mungkinkah aku bisa membawa sebagian batuan ini untuk kenang-kenangan?"
+
+### Pilihan
+A. "Tentu saja, aku tidak boleh melewatkannya begitu saja"
+B. "Tidak, sepertinya tidak perlu. Aku tidak terlalu menyukai batu itu"
+
+### Pilihan A
+Saat Hugo hendak mengambil sebagian kecil batu itu, sesosok monster seperti beruang dengan moncong naga keluar dari sisi tergelap sudut lorong dan mengejar Hugo. Hugo terkejut dan langsung berlari dari sana secepat mungkin.
+
+Hugo : "Tidak, aku tidak akan mengambilnya. Jangan kejar aku!"
+Hugo terus berlari menelusuri lorong. Beruntunglah monster itu tidak mengikutinya sampai sejauh ini.
+
+### Pilihan B
+Hugo melanjutkan menelusuri lorong.
+
+### Pilihan 2
+Jalan di bagian gua ini sangat berbatu, bahkan Hugo tidak bisa berdiri dengan lurus. Dinding gua dipenuhi tetesan air yang berjatuhan dan berbau seperti campuran bahan peledak.
+Hugo tidak sengaja menginjak batuan licin dan terjatuh.
+Hugo : "Argh! Astaga obornya!"
+Obor yang tadi digenggam oleh Hugo menggelinding dan berhenti tepat di bawah kumpulan barrel bertuliskan "TNT"
+Hugo : "oh tidak!"
+BOOM! Fin~
+
+Setelah beberapa saat, Hugo menemui persimpangan lagi. Dia harus tetap berhati-hati.
+
+Hugo : "Sampai mana lorong ini akan berujung? Aku harus memilih jalan lagi.."
+
+### Pilihan
+1. kiri
+2. kanan
+
+### Pilihan 1
+
+### Pilihan 2
