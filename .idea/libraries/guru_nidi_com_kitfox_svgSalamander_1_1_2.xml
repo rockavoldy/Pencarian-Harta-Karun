@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="guru.nidi.com.kitfox:svgSalamander:1.1.2" type="repository">
+    <properties maven-id="guru.nidi.com.kitfox:svgSalamander:1.1.2" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/guru/nidi/com/kitfox/svgSalamander/1.1.2/svgSalamander-1.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

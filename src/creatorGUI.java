@@ -1,5 +1,9 @@
+import javax.imageio.ImageIO;
 import javax.swing.*;
 import java.awt.*;
+import java.awt.image.BufferedImage;
+import java.io.File;
+import java.io.IOException;
 
 public class creatorGUI {
     private static btnHandler btnHandler = new btnHandler();
@@ -23,6 +27,15 @@ public class creatorGUI {
 
         return textArea;
     }
+
+//    public static JLabel createImageLabel(String location) throws IOException {
+//        BufferedImage image;
+//        image = ImageIO.read(new File("/Users/fuu/assets/title.png"));
+//        JLabel image = new JLabel(new ImageIcon(img));
+//        imagee.add(image);
+//
+//        return imagee;
+//    }
 
     public static JButton createBtn(String nama, Font font, String cmdName) {
         JButton btn = new JButton(nama);
